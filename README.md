@@ -4,15 +4,15 @@
 
 
 <div align="center">
-    <img src="https://img.shields.io/github/languages/count/imharris24/Snake-CPP?label=Languages&style=for-the-badge">
-    <img src="https://img.shields.io/github/languages/top/imharris24/Snake-CPP?style=for-the-badge">
-    <img src="https://img.shields.io/github/repo-size/imharris24/Snake-CPP?style=for-the-badge">
-    <img src="https://img.shields.io/github/issues/imharris24/Snake-CPP?style=for-the-badge">
-    <img src="https://img.shields.io/github/issues-pr-closed/imharris24/Snake-CPP?style=for-the-badge">
-    <img src="https://img.shields.io/github/license/imharris24/Snake-CPP?style=for-the-badge">
-    <img src="https://img.shields.io/github/forks/imharris24/Snake-CPP?style=for-the-badge">
-    <img src="https://img.shields.io/github/stars/imharris24/Snake-CPP?style=for-the-badge">
-    <img src="https://img.shields.io/github/last-commit/imharris24/Snake-CPP?style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/count/simar437/Snake-cpp?label=Languages&style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/top/simar437/Snake-cpp?style=for-the-badge">
+    <img src="https://img.shields.io/github/repo-size/simar437/Snake-CPP?style=for-the-badge">
+    <img src="https://img.shields.io/github/issues/simar437/Snake-CPP?style=for-the-badge">
+    <img src="https://img.shields.io/github/issues-pr-closed/simar437/Snake-CPP?style=for-the-badge">
+    <img src="https://img.shields.io/github/license/simar437/Snake-CPP?style=for-the-badge">
+    <img src="https://img.shields.io/github/forks/simar437/Snake-CPP?style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/simar437/Snake-CPP?style=for-the-badge">
+    <img src="https://img.shields.io/github/last-commit/simar437/Snake-CPP?style=for-the-badge">
 </div>
 
 
@@ -21,14 +21,14 @@
   <p align="center">
     Snake created using basics of C++!
     <br />
-    <a href="https://github.com/imharris24/Snake-CPP"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/simar437/Snake-CPP"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/imharris24/Snake-CPP/tree/main/src">View Demo</a>
+    <a href="https://github.com/simar437/Snake-CPP/tree/main/src">View Demo</a>
     ·
-    <a href="https://github.com/imharris24/Snake-CPP/issues">Report Bug</a>
+    <a href="https://github.com/simar437/Snake-CPP/issues">Report Bug</a>
     ·
-    <a href="https://github.com/imharris24/Snake-CPP/issues">Request Feature</a>
+    <a href="https://github.com/simar437/Snake-CPP/issues">Request Feature</a>
   </p>
 </div>
 
@@ -50,14 +50,14 @@ fruits. This increases the score of the Player.
 <br>
 
 <div align="center">
-  <img width=auto height=auto src="https://raw.githubusercontent.com/imharris24/Snake-CPP/main/screenshot/scr01.png?token=GHSAT0AAAAAABZQSA2C5SXNETHS7VAJ2O2CY3J5O6A">
+  <img width=auto height=auto src="https://raw.githubusercontent.com/simar437/Snake-CPP/main/screenshot/scr01.png?token=GHSAT0AAAAAABZQSA2C5SXNETHS7VAJ2O2CY3J5O6A">
   <br>
   <br>
-  <img width=auto height=auto src="https://raw.githubusercontent.com/imharris24/Snake-CPP/main/screenshot/scr02.png?token=GHSAT0AAAAAABZQSA2DTAZJ6GSS4HT3MI6CY3J5PAA">
+  <img width=auto height=auto src="https://raw.githubusercontent.com/simar437/Snake-CPP/main/screenshot/scr02.png?token=GHSAT0AAAAAABZQSA2DTAZJ6GSS4HT3MI6CY3J5PAA">
   <br>
   <br>
   
-  <img width=auto height=auto src="https://raw.githubusercontent.com/imharris24/Snake-CPP/main/screenshot/scr04.png?token=GHSAT0AAAAAABZQSA2DTAZJ6GSS4HT3MI6CY3J5PAA">
+  <img width=auto height=auto src="https://raw.githubusercontent.com/simar437/Snake-CPP/main/screenshot/scr04.png?token=GHSAT0AAAAAABZQSA2DTAZJ6GSS4HT3MI6CY3J5PAA">
 </div>
 
 <br>
