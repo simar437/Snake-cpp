@@ -56,9 +56,7 @@ fruits. This increases the score of the Player.
   <img width=auto height=auto src="https://raw.githubusercontent.com/imharris24/Snake-CPP/main/screenshot/scr02.png?token=GHSAT0AAAAAABZQSA2DTAZJ6GSS4HT3MI6CY3J5PAA">
   <br>
   <br>
-  <img width=auto height=auto src="https://raw.githubusercontent.com/imharris24/Snake-CPP/main/screenshot/scr03.png?token=GHSAT0AAAAAABZQSA2C5SXNETHS7VAJ2O2CY3J5O6A">
-  <br>
-  <br>
+  
   <img width=auto height=auto src="https://raw.githubusercontent.com/imharris24/Snake-CPP/main/screenshot/scr04.png?token=GHSAT0AAAAAABZQSA2DTAZJ6GSS4HT3MI6CY3J5PAA">
 </div>
 
@@ -114,7 +112,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-MUHAMMAD HARRIS - [@simar.cpp](https://instagram.com/simar.cpp) - simarjitsingharora437@gmail.com
+Simarjit Singh - [@simar.cpp](https://instagram.com/simar.cpp) - simarjitsingharora437@gmail.com
 
 Project Link: [Snake](https://github.com/simar437/Snake-cpp)
 
